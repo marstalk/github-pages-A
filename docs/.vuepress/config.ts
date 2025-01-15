@@ -8,6 +8,8 @@ export default defineUserConfig({
   title: 'Personal Website',
   description: 'My personal website built with VuePress 2',
   
+  base: '/github-pages-A/',
+  
   theme: defaultTheme({
     navbar: [
       {
